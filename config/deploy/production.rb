@@ -1,1 +1,1 @@
-server "annaenber.nl", user: :deploy, roles: %w{web}
+server "ygritte.webschuur.com", user: :deploy, roles: %w{web}
